@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Iván Figueredo</h1>
+<h3>Iván Figueredo</h3>
 <!--
 **ItsIvanPsk/ItsIvanPsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
