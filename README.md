@@ -5,7 +5,7 @@
 <section>
     <h2>How to contact me: </h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Gmail" alt="Gmail" width="17" height="17">   ivanfigueredo.et@gmail.com<br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20">https://www.linkedin.com/in/ivanfigueredo/
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20">   www.linkedin.com/in/ivanfigueredo/
 </section>
 
 <section>
@@ -14,7 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50" style="padding: 0px 20px;">
-    <img src="github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50" style="padding: 0px 20px;">
     <h3>Languages</h3><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="50" height="50" style="padding: 0px 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50" style="padding: 0px 20px;">
