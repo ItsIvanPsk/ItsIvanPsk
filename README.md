@@ -11,11 +11,16 @@
 <section>
     <h3>I'm currently improving my skills as a developer, using technologies such as:<br><h3>
     <h3>Technologies</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" align="center" title="Android Studio" alt="Android Studio" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" align="center" title="GitHub" alt="GitHub" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="50" height="50" style="padding: 0px 20px;">
+    <img src="github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50" style="padding: 0px 20px;">
+
     <h3>Languages</h3><br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" align="center" title="Kotlin" alt="Kotlin" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" align="center"  title="MySQL" alt="MySQL" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="center" title="HTML5" alt="HTML5" width="50" height="50" style="padding: 0px 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" align="center" title="CSS" alt="CSS" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="Kotlin" alt="Kotlin" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50" style="padding: 0px 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50" style="padding: 0px 20px;">
 </section>
