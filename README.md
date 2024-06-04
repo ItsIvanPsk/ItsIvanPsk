@@ -15,7 +15,6 @@
 <div align="center">
 <a href="https://github.com/itsivanpsk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsivanpsk&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsivanpsk&layout=compact&langs_count=3&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
