@@ -1,6 +1,6 @@
 <h2>📚 | Education</h2>
 <p>
-    I am currently studying computer engineering at the UOC.
+    I am currently studying a degree of design and game development at UNIR.
     I have a higher degree in multiplatform application development finished in 2023, I attended the Vueling University of .Net in 2023-24 in which I made a training on development in the .Net environment.
 </p>
 <h2>🔥 | My contribution streak</h2>
